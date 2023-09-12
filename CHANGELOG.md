@@ -10,3 +10,4 @@ This log tracks architectural and documentation refinements.
 - `2023-09-01` — badge refresh
 - `2023-09-03` — surface key invariants
 - `2023-09-12` — markdown lint
+- `2023-09-12` — tighten decisions section
