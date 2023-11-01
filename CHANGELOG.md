@@ -14,3 +14,4 @@ This log tracks architectural and documentation refinements.
 - `2023-09-12` — badges + status
 - `2023-10-30` — surface key invariants
 - `2023-10-30` — markdown lint
+- `2023-11-01` — contact block tidy
