@@ -17,3 +17,4 @@ This log tracks architectural and documentation refinements.
 - `2023-11-01` — contact block tidy
 - `2023-11-04` — rephrase capabilities
 - `2023-11-07` — improve mermaid diagram
+- `2023-11-27` — tighten architecture overview
