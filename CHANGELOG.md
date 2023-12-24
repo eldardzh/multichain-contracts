@@ -20,3 +20,4 @@ This log tracks architectural and documentation refinements.
 - `2023-11-27` — tighten architecture overview
 - `2023-12-15` — tighten architecture overview
 - `2023-12-23` — contact block tidy
+- `2023-12-24` — markdown lint
