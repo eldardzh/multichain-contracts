@@ -25,3 +25,4 @@ This log tracks architectural and documentation refinements.
 - `2024-01-22` — capabilities — clarify wording
 - `2024-01-23` — gitignore
 - `2024-01-24` — gitignore
+- `2024-04-28` — rephrase capabilities
