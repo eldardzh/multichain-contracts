@@ -28,3 +28,4 @@ This log tracks architectural and documentation refinements.
 - `2024-04-28` — rephrase capabilities
 - `2024-04-30` — tighten architecture overview
 - `2024-05-01` — trailing whitespace
+- `2024-05-01` — scope clarification
