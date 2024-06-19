@@ -31,3 +31,4 @@ This log tracks architectural and documentation refinements.
 - `2024-05-01` — scope clarification
 - `2024-05-03` — markdown lint
 - `2024-05-03` — improve mermaid diagram
+- `2024-06-19` — terminology cleanup
