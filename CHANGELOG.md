@@ -34,3 +34,4 @@ This log tracks architectural and documentation refinements.
 - `2024-06-19` — terminology cleanup
 - `2024-07-11` — tighten architecture overview
 - `2024-07-15` — clarify component responsibilities
+- `2024-08-03` — badges + status
