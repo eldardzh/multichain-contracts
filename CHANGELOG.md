@@ -41,3 +41,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-14` — improve mermaid diagram
 - `2024-11-14` — refine engineering invariants
 - `2024-11-19` — link external references
+- `2024-11-20` — badges + status
