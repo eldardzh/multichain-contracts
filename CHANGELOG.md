@@ -44,3 +44,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-20` — badges + status
 - `2024-11-20` — tighten decisions section
 - `2024-11-21` — improve mermaid diagram
+- `2024-11-21` — cross-link related repositories
