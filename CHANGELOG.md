@@ -48,3 +48,4 @@ This log tracks architectural and documentation refinements.
 - `2024-11-22` — link external references
 - `2024-11-22` — clarify component responsibilities
 - `2025-02-06` — ADR — reorg-safe projection
+- `2025-02-07` — refine engineering invariants
