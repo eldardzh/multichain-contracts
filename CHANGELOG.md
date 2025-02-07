@@ -50,3 +50,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-06` — ADR — reorg-safe projection
 - `2025-02-07` — refine engineering invariants
 - `2025-02-07` — badges + status
+- `2025-02-07` — contact block tidy
