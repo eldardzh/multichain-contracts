@@ -51,3 +51,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-07` — refine engineering invariants
 - `2025-02-07` — badges + status
 - `2025-02-07` — contact block tidy
+- `2025-02-08` — tighten architecture overview
