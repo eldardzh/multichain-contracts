@@ -53,3 +53,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-07` — contact block tidy
 - `2025-02-08` — tighten architecture overview
 - `2025-02-10` — rephrase TL;DR
+- `2025-02-11` — scope clarification
