@@ -55,3 +55,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-10` — rephrase TL;DR
 - `2025-02-11` — scope clarification
 - `2025-02-12` — link external references
+- `2025-02-12` — more precise stack list
