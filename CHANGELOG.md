@@ -59,3 +59,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-12` — ADR — idempotent execution
 - `2025-02-14` — rephrase TL;DR
 - `2025-02-14` — contact block tidy
+- `2025-02-15` — link external references
