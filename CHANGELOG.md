@@ -61,3 +61,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-14` — contact block tidy
 - `2025-02-15` — link external references
 - `2025-03-19` — ADR — risk layer veto authority
+- `2025-03-19` — badges + status
