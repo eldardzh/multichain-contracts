@@ -63,3 +63,4 @@ This log tracks architectural and documentation refinements.
 - `2025-03-19` — ADR — risk layer veto authority
 - `2025-03-19` — badges + status
 - `2025-03-20` — gitignore
+- `2025-03-20` — tighten decisions section
