@@ -66,3 +66,4 @@ This log tracks architectural and documentation refinements.
 - `2025-03-20` — tighten decisions section
 - `2025-03-21` — refine engineering invariants
 - `2025-03-21` — ADR — queue-backed mutations
+- `2025-03-24` — capabilities — clarify wording
