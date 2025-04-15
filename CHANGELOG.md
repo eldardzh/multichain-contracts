@@ -69,3 +69,4 @@ This log tracks architectural and documentation refinements.
 - `2025-03-24` — capabilities — clarify wording
 - `2025-03-26` — capabilities — clarify wording
 - `2025-04-15` — improve mermaid diagram
+- `2025-04-15` — more precise stack list
