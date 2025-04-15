@@ -68,3 +68,4 @@ This log tracks architectural and documentation refinements.
 - `2025-03-21` — ADR — queue-backed mutations
 - `2025-03-24` — capabilities — clarify wording
 - `2025-03-26` — capabilities — clarify wording
+- `2025-04-15` — improve mermaid diagram
