@@ -73,3 +73,4 @@ This log tracks architectural and documentation refinements.
 - `2025-05-29` — production status update
 - `2025-05-29` — refine engineering invariants
 - `2025-05-30` — cross-link related repositories
+- `2025-06-01` — rephrase TL;DR
