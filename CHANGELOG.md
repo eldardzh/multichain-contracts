@@ -76,3 +76,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-01` — rephrase TL;DR
 - `2025-06-02` — markdown lint
 - `2025-06-04` — ADR — audit append-only store
+- `2025-06-04` — refine engineering invariants
