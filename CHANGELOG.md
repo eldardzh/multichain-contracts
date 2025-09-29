@@ -81,3 +81,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-04` — rephrase TL;DR
 - `2025-08-08` — badge refresh
 - `2025-08-12` — cross-link related repositories
+- `2025-09-29` — refine engineering invariants
