@@ -84,3 +84,4 @@ This log tracks architectural and documentation refinements.
 - `2025-09-29` — refine engineering invariants
 - `2025-09-29` — more precise stack list
 - `2025-09-30` — tighten architecture overview
+- `2025-12-01` — heading hierarchy
