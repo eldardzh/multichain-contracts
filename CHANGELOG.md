@@ -87,3 +87,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-01` — heading hierarchy
 - `2025-12-02` — cross-link related repositories
 - `2026-01-22` — tighten decisions section
+- `2026-01-23` — trailing whitespace
