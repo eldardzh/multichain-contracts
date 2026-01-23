@@ -89,3 +89,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-22` — tighten decisions section
 - `2026-01-23` — trailing whitespace
 - `2026-01-23` — markdown lint
+- `2026-01-23` — tighten architecture overview
