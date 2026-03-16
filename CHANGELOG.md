@@ -94,3 +94,4 @@ This log tracks architectural and documentation refinements.
 - `2026-03-09` — gitignore
 - `2026-03-10` — capabilities — clarify wording
 - `2026-03-16` — scope clarification
+- `2026-03-16` — terminology cleanup
