@@ -96,3 +96,4 @@ This log tracks architectural and documentation refinements.
 - `2026-03-16` — scope clarification
 - `2026-03-16` — terminology cleanup
 - `2026-03-17` — tighten decisions section
+- `2026-03-18` — tighten decisions section
