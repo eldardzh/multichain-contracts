@@ -101,3 +101,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-15` — more precise stack list
 - `2026-04-27` — contact block tidy
 - `2026-04-28` — tighten architecture overview
+- `2026-04-29` — tighten decisions section
